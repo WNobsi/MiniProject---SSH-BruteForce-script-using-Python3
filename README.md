@@ -137,5 +137,7 @@ The above lets you know how the security works when you make multiple failed SSH
 6. Using the wrong host (localhost vs 127.0.0.1 is usually fine, but verify what your code uses).
 ## Screenshots
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+Successful([https://github.com/WNobsi/MiniProject---SSH-BruteForce-script-using-Python3/blob/3d1b2c35407022ee30a812d60c9b8cb70b7125e7/img/SSH%20Diagnostics.png])
+
+Diagonostic([https://github.com/WNobsi/MiniProject---SSH-BruteForce-script-using-Python3/blob/3d1b2c35407022ee30a812d60c9b8cb70b7125e7/img/SSH%20Diagnostics.png])
 
