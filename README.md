@@ -1,5 +1,5 @@
 
-# MiniProject - SSH-BruteForce Project
+# MiniProject - SSH-BruteForce using Python3 and pwntools library
 
 Overview
 
